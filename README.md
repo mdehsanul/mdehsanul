@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, I am MD.Ehsanul Haque Shanto 👋
 
-<!--
-**mdehsanul/mdehsanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some Short note about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Design and Development
+- 🌱 I’m currently learning Vue.js, React Native, Redux
+- 👯 I’m looking to collaborate on React projects
+- 🤔 I’m looking for help with Redux, PHP, Laravel
+- 💬 Ask me about,  I'll try to catch you up soon.
+- 📫 How to reach me: mdehsanulhaque704@gmail.com
+- 😄 Pronouns: He/His ❤
+- ⚡ Fun fact: I almost spend all the day-night in front of the computer😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
