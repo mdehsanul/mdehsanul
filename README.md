@@ -9,6 +9,6 @@ Here are some Short note about me:
 - 🤔 I’m looking for help with Redux, PHP, Laravel
 - 💬 Ask me about,  I'll try to catch you up soon.
 - 📫 How to reach me: mdehsanulhaque704@gmail.com
-- 😄 Pronouns: He/His ❤
+- 😄 Pronouns: He/Him ❤
 - ⚡ Fun fact: I almost spend all the day-night in front of the computer😁
 
