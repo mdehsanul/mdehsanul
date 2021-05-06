@@ -4,6 +4,7 @@ Here are some Short note about me:
 
 - 🔭 I’m currently working on Web Design and Development
 - 🌱 I’m currently learning Vue.js, React Native, Redux
+- 🎓 BSc in COmputer Science and Engineering
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with Redux, PHP, Laravel
 - 💬 Ask me about,  I'll try to catch you up soon.
