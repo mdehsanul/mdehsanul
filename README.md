@@ -12,5 +12,6 @@ Here are some Short note about me:
 - 😄 Pronouns: He/Him ❤
 - ⚡ Fun fact: I almost spend all the day-night in front of the computer😁
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdehsanul)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdehsanul&show_icons=true)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdehsanul)](https://github.com/anuraghazra/github-readme-stats)
