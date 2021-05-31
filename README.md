@@ -45,6 +45,6 @@
 
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdehsanul&show_icons=true)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdehsanul)](https://github.com/anuraghazra/github-readme-stats)
+<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mdehsanul&show_icons=true"/>
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdehsanul&card_width=550)](https://github.com/mdehsanul)
