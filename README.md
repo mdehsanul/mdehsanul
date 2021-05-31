@@ -1,10 +1,15 @@
-### Hi there, I'm  [Solaiman Shadin][website] 👋
+### Hi there, I'm  MD. Ehsanul Haque Shanto 👋
 
-## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working [Programming Hero][programming]!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: TypeScript, Next.js, Vue
-- ⚡ Fun fact: I love to Explore the world 
+## I'm a 😍😍 ReactJS Lover 😍😍!
+- 🔭 I’m currently working on Web Design and Development
+- 🌱 I’m currently learning Vue.js, React Native, Redux
+- 🎓 BSc in Computer Science and Engineering
+- 👯 I’m looking to collaborate on React projects
+- 🤔 I’m looking for help with Redux, PHP, Laravel
+- 💬 Ask me about,  I'll try to catch you up soon.
+- 📫 How to reach me: mdehsanulhaque704@gmail.com
+- 😄 Pronouns: He/Him ❤
+- ⚡ Fun fact: I want to learning everything 😁
 
 ### Connect with me:
 
@@ -41,16 +46,7 @@
 
 <br />
 <br />
-<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=solaimanshadin&show_icons=true"/>
+<img width="550px" alt="Solaiman Shadin Github Stats"  src="https://github-readme-stats.vercel.app/api?username=mdehsanul&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=mdehsanul&card_width=550)](https://github.com/mdehsanul)
 
-
-[programming]: https://www.programming-hero.com/
-[website]: https://shadin.netlify.app/
-[twitter]: https://shadin.netlify.app/
-[linkedin]: https://shadin.netlify.app/
-[webdevplaylist]: https://shadin.netlify.app/
-[jsplaylist]: https://shadin.netlify.app/
-[cssplaylist]: https://shadin.netlify.app/
-[reactplaylist]: https://shadin.netlify.app/
