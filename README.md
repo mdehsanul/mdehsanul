@@ -2,10 +2,10 @@
 
 ## I'm a 😍😍 ReactJS Lover 😍😍!
 - 🔭 I’m currently working on Web Design and Development
-- 🌱 I’m currently learning Vue.js, React Native, Redux
+- 🌱 I’m currently learning  PHP, Laravel, Vue.js.
 - 🎓 BSc in Computer Science and Engineering
 - 👯 I’m looking to collaborate on React projects
-- 🤔 I’m looking for help with Redux, PHP, Laravel
+- 🤔 I’m looking for help with Redux, React Native
 - 💬 Ask me about,  I'll try to catch you up soon.
 - 📫 How to reach me: mdehsanulhaque704@gmail.com
 - 😄 Pronouns: He/Him ❤
