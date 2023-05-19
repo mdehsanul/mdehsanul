@@ -9,7 +9,7 @@
 - 💬 Ask me about,  I'll try to catch you up soon.
 - 📫 How to reach me: mdehsanulhaque704@gmail.com
 - 😄 Pronouns: He/Him ❤
-- ⚡ Fun fact: I want to learning everything 😁
+- ⚡ Fun fact: I want to learn everything 😁
 
 ### Connect with me:
 
