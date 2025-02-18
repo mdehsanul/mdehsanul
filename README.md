@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on React projects
 - 🤔 I’m looking for help with Redux, React Native
 - 💬 Ask me about,  I'll try to catch you up soon.
-- 📫 How to reach me: mdehsanulhaque704@gmail.com
+- 📫 How to reach me: mdehshanto.cse@gmail.com
 - 😄 Pronouns: He/Him ❤
 - ⚡ Fun fact: I want to learn everything 😁
 
