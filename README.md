@@ -1,14 +1,14 @@
 ### Hi there, I'm  MD. Ehsanul Haque Shanto 👋
 
-## I'm a 😍😍 ReactJS Lover 😍😍!
+## I'm a 😍😍 React Lover 😍😍!
 - 🔭 I’m currently working on Web Design and Development
-- 🌱 I’m currently learning  PHP, Laravel, Vue.js.
+- 🌱 I’m currently Focus on Frontend (HTML, CSS, JavaScript, React).
+- 🤔 Also Learning Backend (Node.js, Express, Databases(MongoDB)).
 - 🎓 BSc in Computer Science and Engineering
 - 👯 I’m looking to collaborate on React projects
-- 🤔 I’m looking for help with Redux, React Native
 - 💬 Ask me about,  I'll try to catch you up soon.
 - 📫 How to reach me: mdehshanto.cse@gmail.com
-- 😄 Pronouns: He/Him ❤
+- 😄 Pronouns: he/him ❤
 - ⚡ Fun fact: I want to learn everything 😁
 
 ### Connect with me:
